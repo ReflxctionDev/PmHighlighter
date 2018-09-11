@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pmhighlighter",
+  "name": "PM Highlighter",
+  "description": "A Hypixel mod for highlighting PMs and plays a sound when receiving one.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Reflxction"],
+  "credits": "Reflxction",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
