@@ -18,4 +18,4 @@ Command: */pmhighlighter*. Aliases: */pmh*, */highlighter*.
 * **/pmh sound** - Toggles whether it should play sounds or not
 * **/pmh sound <sound name>** - Sets the sound name to play when receiving a PM
 
-**Official Hypixel thread**: TBD
+**Official Hypixel thread**: https://hypixel.net/threads/forge-1-8-9-pm-highlighter.1821005/
